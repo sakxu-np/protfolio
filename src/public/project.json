@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Portfolio Website",
+    "description": "A personal portfolio website built with React, TypeScript, and Tailwind CSS.",
+    "image": "/images/portfolio1.png",
+    "link": "https://github.com/yourusername/portfolio"
+  },
+  {
+    "id": 2,
+    "title": "Todo App",
+    "description": "A simple Todo application built using React and Redux Toolkit.",
+    "image": "/images/todo.png",
+    "link": "https://github.com/yourusername/todo-app"
+  },
+  {
+    "id": 3,
+    "title": "Weather App",
+    "description": "Weather forecast application using React and OpenWeather API.",
+    "image": "/images/weather.png",
+    "link": "https://github.com/yourusername/weather-app"
+  },
+  {
+    "id": 4,
+    "title": "E-commerce Website",
+    "description": "A full-stack e-commerce site built with React, Node.js, and MongoDB.",
+    "image": "/images/ecommerce.png",
+    "link": "https://github.com/yourusername/ecommerce"
+  }
+]

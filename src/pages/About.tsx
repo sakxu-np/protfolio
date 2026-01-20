@@ -3,7 +3,7 @@ import React from "react";
 const About: React.FC = () => {
   const skills = {
     "Frontend": ["React", "TypeScript", "JavaScript", "Tailwind CSS", "HTML/CSS", "Vite"],
-    "Backend": ["Node.js", "Express", "Python", "REST APIs"],
+    "Backend": ["Node.js", "Express","REST APIs"],
     "Tools & Others": ["Git", "GitHub", "VS Code", "npm/yarn", "Responsive Design"]
   };
 

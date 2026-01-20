@@ -40,7 +40,7 @@ const Contact: React.FC = () => {
         </div>
 
         <p className="text-center text-slate-500 text-sm mt-8">
-          💡 Update the email, GitHub, and LinkedIn links above with your actual contact information
+          💡Update the email, GitHub, and LinkedIn links above with your actual contact information
         </p>
       </section>
     </div>
